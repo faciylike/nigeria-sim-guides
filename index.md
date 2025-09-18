@@ -70,3 +70,10 @@ layout: default
 *   **网络波动平常心：** 尼日利亚的移动网络，偶尔抽风是常态（比如大雨后）。重要会议？提前找个有稳定Wi-Fi的地方更保险。
 
 　　说到底，在
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Nigeria eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/nigeria-data-plans)
